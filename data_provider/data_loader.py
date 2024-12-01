@@ -548,9 +548,9 @@ class Dataset_Pred(Dataset):
 
 
 class Dataset_PEMS(Dataset):
-    def __init__(self, root_path, flag='train', size=None,
+    def __init__(self, config, root_path, flag='train', size=None,
                  features='S', data_path='ETTh1.csv',
-                 target='OT', scale=True, timeenc=0, freq='h', seasonal_patterns=None):
+                 target='OT', scale=True, timeenc=0, freq='h', seasonal_pattern=None):
 
         self.seq_len = size[0]
         self.label_len = size[1]
