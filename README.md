@@ -25,6 +25,8 @@ We thank the authors of the following repositories for their open-source code or
 
 - **TimeMixer:** ([https://github.com/kwuking/TimeMixer?tab=readme-ov-file](https://github.com/kwuking/TimeMixer?tab=readme-ov-file))
 
+-  **PatchTST:** ([https://github.com/yuqinie98/PatchTST](https://github.com/yuqinie98/PatchTST))
+
 - **iTransformer:** ([https://github.com/thuml/iTransformer](https://github.com/thuml/iTransformer))
 
 - **Informer:** ([https://github.com/zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020))
